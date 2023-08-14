@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/asimengose33947" target="blank"><img src="https://img.shields.io/twitter/follow/asimengose33947?logo=twitter&style=for-the-badge" alt="asimengose33947" /></a> </p>
 
-- 🔭 I’m currently working on [Ruby]()
+- 🔭 I’m currently working on [Rails]()
 
 - 🌱 I’m currently learning **Ruby and Ruby on Rails**
 
