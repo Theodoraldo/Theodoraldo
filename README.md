@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Ruby and Ruby on Rails**
 
-- 👨‍💻 All of my projects are available at [My Work](https://theodoraldo.github.io/Portfolio-finish-mobile-version/)
+- 👨‍💻 All of my projects are available at [Works](https://theodoraldo.github.io/Portfolio-finish-mobile-version/)
 
 - 💬 Ask me about **JavaScript,React,Redux,Databases,Ruby**
 
