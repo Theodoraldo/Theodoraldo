@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [Next.js]()
 
-- 🌱 I’m currently learning **Ruby and Ruby on Rails**
+- 🌱 I’m currently learning **Next JS framework**
 
 - 👨‍💻 All of my projects are available at [Works](https://theodoraldo.github.io/Portfolio-finish-mobile-version/)
 
-- 💬 Ask me about **JavaScript,React,Redux,Databases,Ruby**
+- 💬 Ask me about **JavaScript, React, Redux, Databases, Ruby**
 
 - 📫 How to reach me **theodoraldo@gmail.com**
 
