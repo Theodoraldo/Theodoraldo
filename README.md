@@ -51,6 +51,3 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
   <a href="https://nestjs.com/" alt="nestjs" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21~bgwhite.svg" alt="tailwind" width="40" height="40"/></a>
 </div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theodoraldo&show_icons=true&locale=en&layout=compact" alt="theodoraldo" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theodoraldo&show_icons=true&locale=en" alt="theodoraldo" /></p>
